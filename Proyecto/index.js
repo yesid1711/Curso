@@ -6,5 +6,8 @@ const fn = () => {
 fn()
 const clickeado = () => {
     let a = " Aprendiz Feliz";
+
     console.log (a);
+    console.log('hola mundo')
+    console.log( 'bienvenido a la programación');
 }
